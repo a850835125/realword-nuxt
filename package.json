@@ -1,0 +1,27 @@
+{
+  "name": "realworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/kelvin1006/realworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.10.4",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.4",
+    "nuxt": "^2.15.3"
+  }
+}
